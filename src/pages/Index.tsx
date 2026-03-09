@@ -19,7 +19,7 @@ const Index = () => (
     <ContactSection />
     <footer className="py-8 border-t border-border">
       <div className="container text-center text-xs text-muted-foreground">
-        © {new Date().getFullYear()} DevReact. All rights reserved.
+        © {new Date().getFullYear()} Carlo Vieira - React Engineer. All rights reserved.
       </div>
     </footer>
   </div>

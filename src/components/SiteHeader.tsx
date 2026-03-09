@@ -12,7 +12,7 @@ const SiteHeader = () => (
     <div className="container flex items-center justify-between h-16">
       <a href="#" className="flex items-center gap-2 font-semibold text-foreground">
         <Code2 className="w-5 h-5 text-primary" />
-        <span>DevReact</span>
+        <span>Carlo Vieira - React Engineer</span>
       </a>
       <nav className="hidden md:flex items-center gap-8">
         {navLinks.map((l) => (
